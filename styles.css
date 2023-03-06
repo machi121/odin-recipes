@@ -1,0 +1,23 @@
+* {
+    background-color: wheat;
+    font-family: 'Verdana', sans-serif;
+}
+
+h1, h2, h3 {
+    color: palevioletred;
+    font-family:'Courier New', Courier, monospace;
+}
+
+.description,
+.korean {
+    font-weight: lighter;
+}
+
+li {
+    font-size: larger;
+}
+
+#odin-logo {
+    width: 100px;
+    height: auto;
+}
